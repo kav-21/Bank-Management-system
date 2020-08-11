@@ -1,1 +1,1 @@
-This is a simple bank management project tha contains the basic amenities that can be done by a bank like creating  account, Withdraw money, deposit money, view the details of your account. It is done using file handling mechanism in C++ that file as a database.
+This is a simple bank management project that contains the basic amenities that can be done by a bank like creating  an account, withdrawing money, depositing money, view the details of your account. It is done using file handling mechanism in C++ that file as a database.
